@@ -57,11 +57,12 @@
   
   <br>
   
-  <h3> :books: DB :books: </h3>
+  <h3> :books: DB/ORM :books: </h3>
   
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![SANITY](https://img.shields.io/badge/SANITY-%23CB3837.svg?style=for-the-badge&logo=sanity&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
   <br>
   
