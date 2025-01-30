@@ -20,6 +20,8 @@
       
 </a> ![Gmail](https://img.shields.io/badge/tkdans312@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
+![naver](https://img.shields.io/badge/kirianir@naver.com-1997B5&?logo=naver&logoColor=white&style=for-the-badge)
+
 </details>
 
 </div>
@@ -30,7 +32,7 @@
 
 
 * 신입 프론트엔드 개발자 안상문입니다. <br>
-* 여러 데이터베이스를 사용하여 풀스택 개발하는 것을 즐기고 있습니다. <br>
+* 여러 데이터베이스를 사용하여 풀스택 개발하는 것을 즐기고 있습니다. 물론 어렵지만 직접 스키마를 작성하고 DB에 데이터를 쌓고 빼는 것이 재밌습니다. <br>
 * 지금은 리액트나 Next에서 내부 API를 작성하는 풀스택 개발에 그치고 있지만, 최종적으론 직접 자바 스프링등 백엔드 프레임워크를 이용하여 완전한 풀스택 개발자가 되는 것이 목표입니다. <br>
 * 하지만 아직은 많이 부족한 실력이기에 백엔드 이전에 가장 기본적인 프론트엔드 기초부터 탄탄하게 닦으려고 노력하고 있습니다.
 
@@ -85,9 +87,18 @@
   ---
   
   <br>
+
+<div id="toc"> 
+<div align="center"> 
+<ul style="list-style: none">
+<summary>
   
-  # My Status
-  
+  # :chart_with_upwards_trend: My Status :chart_with_upwards_trend:
+</summary>
+</ul>
+</div>
+</div>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansm0403&layout=donut&show_icons=true&theme=dracula&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>    
@@ -97,4 +108,31 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansm0403&theme=dracula&bg_color=20232a&text_color=dracula&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
-  </div>
+
+
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+<div id="toc"> 
+<div align="center"> 
+<ul style="list-style: none">
+<summary>
+
+# :bookmark_tabs: Latest blog posts :bookmark_tabs:
+
+</summary>
+</ul>
+</div>
+</div>
+
+<br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312&tag=react)](https://github.com/eungyeole/velog-readme-stats)
+
+</div>
