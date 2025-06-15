@@ -33,9 +33,10 @@
 
 
 * 신입 프론트엔드 개발자 안상문입니다. <br>
-* 여러 데이터베이스를 사용하여 풀스택 개발하는 것에 노력을 기울이고 있습니다. 물론 어렵지만 직접 스키마를 작성하고 쿼리를 이용한 데이터 처리와 API가 성공적으로 작성되어 제대로된 데이터가 오가는 것이 재밌는 것 같습니다. <br>
-* 지금은 리액트나 Next에서 내부 API를 작성하는 풀스택 개발에 그치고 있지만, 최종적으론 직접 자바 스프링등 백엔드 프레임워크를 이용하여 완전한 풀스택 개발자가 되는 것이 목표입니다. <br>
+* 여러 데이터베이스를 사용하여 풀스택 개발하는 것에 노력을 기울이고 있습니다. 직접 스키마를 작성하고 쿼리를 이용한 데이터 처리와 API가 성공적으로 작성되어 제대로된 데이터가 오가는 것이 재밌는 것 같습니다. <br>
+* 지금은 Next에서 내부 API를 작성하거나 ORM을 이용 풀스택 개발에 그치고 있지만, 최종적으론 직접 자바 스프링등 백엔드 프레임워크를 이용하여 완전한 풀스택 개발자가 되는 것이 목표입니다. <br>
 * 하지만 아직은 많이 부족한 실력이기에 백엔드 이전에 가장 기본적인 프론트엔드 기초부터 탄탄하게 닦으려고 노력하고 있습니다.
+* 여러 데이터베이스 도구를 사용하여 직접 스키마를 작성하여 Next.js 및 React 를 이용한 풀스택 개발의 경험이 있으며, 위의 경험으로 Cloud Firestore 와 sanity 를 통해 부족하지만 데이터 관리 경험을 쌓았으며,  RestAPI 및 프로젝트 리더 경험을 토대로 협업 역량을 갖추었습니다.
 * 아래의 스택들은 완벽하게 익히진 않았지만 겉핥기 식이 아닌 최소 하나의 프로젝트를 만드는데 사용한 경험이 있습니다.
   
 <div align = "center">
@@ -56,6 +57,7 @@
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   
   
   <br>
