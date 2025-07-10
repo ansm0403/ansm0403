@@ -64,7 +64,7 @@
   
   <br>
   
-  <h3> :books: DB/ORM :books: </h3>
+  <h3> :books: Data & Content Platform Stack :books: </h3>
   
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -73,15 +73,15 @@
   
   <br>
   
-  <h3> :articulated_lorry: CI/Hosting :articulated_lorry: </h3>
+  <h3> :articulated_lorry: CI/CD & Hosting :articulated_lorry: </h3>
   
-  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+  ![Github Actions](https://img.shields.io/badge/github%20actions-121013?style=for-the-badge&logo=github&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
   
   <br>
   
-  <h3> :wrench: Tools :wrench: </h3>
+  <h3> :wrench: Development Tools :wrench: </h3>
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
