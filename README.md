@@ -138,7 +138,7 @@
 
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312&tag=optimization)](https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312&tag=react)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tkdans312&tag=database)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
