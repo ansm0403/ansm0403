@@ -14,7 +14,6 @@
 
 <br>
 
-
 <a href = "https://velog.io/@tkdans312/posts">
       
 ![velog](https://img.shields.io/badge/velog-3ECF8E?style=for-the-badge&logo=velog&logoColor=white)
