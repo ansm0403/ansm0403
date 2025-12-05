@@ -61,8 +61,6 @@
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-
-  
   <br>
   
   <h3> :books: Database & Content Platform :books: </h3>
