@@ -9,8 +9,6 @@
 
 <div  align="center">
 
-
-
 <details>
 <summary> 📫 About Me 📫 </summary>
 
