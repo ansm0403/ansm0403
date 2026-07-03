@@ -37,7 +37,7 @@
 * 기본적으론 항상 `사용자 경험과 최적화` 에 노력을 기울이고 있습니다. 최근엔 암호학에 대해 조금 공부하여 단순 프론트엔드 어플리케이션에서 `AES + RSA 보안을 구현하여 보안`에도 신경쓰고 있습니다.
 * 여러 데이터베이스 도구를 사용하여 직접 스키마를 작성하거나 `NestJs` 를 이용한 백엔드 프로젝트를 포함하여 `Next.js 및 React` 를 이용한 풀스택 개발의 경험이 있으며, 위의 경험들로 부족하지만 데이터 관리 경험을 쌓았으며,  RestAPI 및 프로젝트 리더 경험을 토대로 협업 역량을 갖추었습니다.
 * 아래의 스택들은 완벽하게 익히진 않았지만 겉핥기 식이 아닌 최소 하나의 프로젝트를 만드는데 사용한 경험이 있습니다.
-* 지금은 현재 `AI 3D 데이터 시각화` 와 `LLM과 프로젝트의 결합(사내 데이터, 감사 로그, 채점)`, `DevOps(AWS, Docker, Sentry 등)` 에 대한 공부를 진행하고 있으며 `React Native` 에 대한 경험을 위의 기술들과 합쳐 `장애 대응 동반 앱` 등의 프로젝트로 이를 채우려고 노력 중입니다.
+* 지금은 현재 `AI 3D 데이터 시각화` 와 `LLM과 프로젝트의 결합(사내 데이터, 감사 로그, 채점)`, `DevOps(AWS, Docker, Sentry 등)` 에 대한 공부를 진행하고 있으며 `React Native` 에 대한 경험을 위의 기술들과 합쳐 `AI가 장애를 분석하고, 사람이 그 분석을 평가하며, 전 과정을 Sentry로 관측하는 모바일 온콜(on-call) 대응 앱` 프로젝트로 이를 채우려고 노력 중입니다.
 
 
 <div align = "center">
@@ -51,12 +51,12 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)<br>
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
   ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
